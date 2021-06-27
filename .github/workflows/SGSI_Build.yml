@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://doc-0o-bs-docs.googleusercontent.com/docs/securesc/q3hoahq43dpm6f75dbkc66ms7tke5kbr/fel96g28rr4e2eagjqk39j992m9l2l58/1624785150000/11543108153609325888/11543108153609325888/182r6pMsoVvG_H9z5pONQH_A7uxPVomTI?e=download&authuser=0&nonce=44kjhuhu9n0o2&user=11543108153609325888&hash=3b2a7nldr3bd442pjdehvap8aioqi0qm'
-  ZIP_NAME: 'update.zip'
+  ROM_URL: 'https://mirrors.lolinet.com/firmware/gsi/MIUI/MIUI-AB-10-20190904-ErfanGSI.img.7z'
+  ZIP_NAME: 'MIUI-AB-10-20190904-ErfanGSI.img.7z'
   OS_TYPE: 'miui'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
